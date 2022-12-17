@@ -1,3 +1,3 @@
 # LinearAlgebra
 
-Review document for linear algebra concepts 
+Review for linear algebra concepts 
